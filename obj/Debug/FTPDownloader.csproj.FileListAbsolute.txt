@@ -1,0 +1,17 @@
+C:\Users\Zal\source\repos\FTPDownloader\FTPDownloader\bin\Debug\FTPDownloader.exe.config
+C:\Users\Zal\source\repos\FTPDownloader\FTPDownloader\bin\Debug\FTPDownloader.exe
+C:\Users\Zal\source\repos\FTPDownloader\FTPDownloader\bin\Debug\FTPDownloader.pdb
+C:\Users\Zal\source\repos\FTPDownloader\FTPDownloader\obj\Debug\FTPDownloader.csproj.AssemblyReference.cache
+C:\Users\Zal\source\repos\FTPDownloader\FTPDownloader\obj\Debug\FTPDownloader.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zal\source\repos\FTPDownloader\FTPDownloader\obj\Debug\FTPDownloader.Form2.resources
+C:\Users\Zal\source\repos\FTPDownloader\FTPDownloader\obj\Debug\FTPDownloader.Form3.resources
+C:\Users\Zal\source\repos\FTPDownloader\FTPDownloader\obj\Debug\FTPDownloader.Properties.Resources.resources
+C:\Users\Zal\source\repos\FTPDownloader\FTPDownloader\obj\Debug\FTPDownloader.csproj.GenerateResource.cache
+C:\Users\Zal\source\repos\FTPDownloader\FTPDownloader\obj\Debug\FTPDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Zal\source\repos\FTPDownloader\FTPDownloader\obj\Debug\FTPDownloader.exe
+C:\Users\Zal\source\repos\FTPDownloader\FTPDownloader\obj\Debug\FTPDownloader.pdb
+C:\Users\Zal\source\repos\FTPDownloader\FTPDownloader\bin\Debug\FTPDownloader.exe.manifest
+C:\Users\Zal\source\repos\FTPDownloader\FTPDownloader\bin\Debug\FTPDownloader.application
+C:\Users\Zal\source\repos\FTPDownloader\FTPDownloader\obj\Debug\FTPDownloader.exe.manifest
+C:\Users\Zal\source\repos\FTPDownloader\FTPDownloader\obj\Debug\FTPDownloader.application
+C:\Users\Zal\source\repos\FTPDownloader\FTPDownloader\obj\Debug\FTPDownloader.Form1.resources

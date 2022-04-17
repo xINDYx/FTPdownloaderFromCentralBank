@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <appSettings>
+        <add key="Адрес сервера" value="123123" />
+        <add key="Папка для сохранения" value="C:\PerfLogs" />
+        <add key="Папка для справочников" value="D:\6" />
+        <add key="Папка для сохранения всех файлов" value="C:\Program Files" />
+    </appSettings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.8"/>
+    </startup>
+</configuration>
